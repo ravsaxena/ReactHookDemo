@@ -1,0 +1,13 @@
+.app-container{
+    display: inline;
+
+}
+
+.row-container{
+  width: 100%;
+}
+
+.row-container-with-background{
+  width: 100%;
+  background-color: darkgrey;
+}
